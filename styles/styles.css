@@ -1,0 +1,26 @@
+
+.open-sans-normal {
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  /* font-weight: <weight>; */
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+
+/* nev style  */
+.head{
+    display: flex;
+}
+.nev-title{
+    /* text-align: center; */
+    font-weight: 800;
+    font-size: 45px;
+    
+}
+
+.text-primary{
+    color: #FD6E0A;
+}
