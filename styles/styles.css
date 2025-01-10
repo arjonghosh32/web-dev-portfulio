@@ -8,6 +8,10 @@
     "wdth" 100;
 }
 
+.dark-2{
+    color: #474747;
+}
+
 
 
 /* nev style  */
@@ -23,4 +27,32 @@
 
 .text-primary{
     color: #FD6E0A;
+}
+
+nav ul li{
+    list-style: none;
+    font-size: 20px;
+    margin-right: 50px;
+}
+
+nav ul{
+    display: flex;
+    align-items: center;
+    
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 200px;
+}
+
+.btn-primary{
+    background-color: #FD6E0A;
+    font-size: bold;
+    color: white;
+    padding: 18px 35px;
+    border-radius: 5px;
+    font-size: 20px;
 }
